@@ -17,7 +17,15 @@
 
 
 </p>
-
+## Stats
+<div>
+  <a href="https://github.com/Kraven321" style="text-decoration:none">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kraven321&show_icons=true&theme=github_dark" style="max-width: 100%;"/>
+  </a>
+  <a href="https://github.com/Kraven321" style="text-decoration:none">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraven321&layout=compact&langs_count=16&theme=github_dark" style="max-width: 100%;"/>
+  </a>
+</div>
 
 
 ## About me

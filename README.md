@@ -21,8 +21,10 @@
 
 
 ## About me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-reis-b1a2a520b/)](https://www.linkedin.com/in/henrique-reis-b1a2a520b/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/henriquereissz/)](https://www.instagram.com/henriquereissz/)
-[![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:henriquereiscarvalho@outlook.com)](mailto:henriquereiscarvalho@outlook.com)
-
+<div> 
+  <a href="https://instagram.com/henriquereissz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:henriquereiscarvalho@outlook.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/henrique-reis-b1a2a520b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 

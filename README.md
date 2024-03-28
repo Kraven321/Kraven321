@@ -1,7 +1,7 @@
 ## Olá!! Eu sou Henrique Reis. 🍺
 
 
-*Meu nome é Henrique Reis, moro em Aracaju/BR.Atualmente sou estudante de programação, cursando o ensino superior em Análise e Dev. de Sistemas.*
+*Meu nome é Henrique Reis, moro em Aracaju/BR.Sou Desenvolvedor Front End e estou atualmente cursando o ensino superior em Análise e Dev. de Sistemas.*
 
 *No meu tempo livre, gosto de jogar video game (🎮), assistir futebol (⚽️), assistir filmes (🎞️) e series (📺).*
 
